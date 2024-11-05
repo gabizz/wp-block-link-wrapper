@@ -1,0 +1,16 @@
+{
+  "name": "link-wrapper",
+  "version": "1.0.0",
+  "description": "WordPress Gutenberg block to wrap content with links",
+  "scripts": {
+    "build": "wp-scripts build",
+    "start": "wp-scripts start"
+  },
+  "devDependencies": {
+    "@wordpress/scripts": "^30.4.0"
+  },
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
